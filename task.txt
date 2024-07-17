@@ -1,0 +1,8 @@
+Rest API -json
+
+/api/user => route => GET list all users
+/api/user/1 => GET user with ID
+
+/api/user => POST create new user
+/api/user/1 => PATCH edit user with id.
+/api/user/1 => DELETE user with id
